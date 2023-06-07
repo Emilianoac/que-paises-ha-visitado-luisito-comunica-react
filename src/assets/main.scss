@@ -1,0 +1,241 @@
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: white;
+  background: #181818;
+  line-height: 1.6;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.main-page {
+  
+  .main-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+
+    .navbar-brand {
+      img {
+        max-width: 50px;
+      }
+    }
+
+    form {
+      max-width: 500px;
+      margin: auto;
+    }
+
+    .navbar-nav {
+
+      .nav-link {
+        color: white;
+      }
+    }
+  }
+
+  .resultados-busquedas {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    left: 0;
+    background: #212529;
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 1em;
+    border-radius: 0px 0px 4px 4px;
+
+    ul {
+      padding: 0;
+      margin: 0;
+      list-style-type: none;
+
+      .resultado {
+        display: flex;
+        justify-content: space-between;
+        padding: 0.5em 0.6em;
+        border-bottom: 1px solid #343a40;
+
+        .resultado__contenido {
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          width: 100%;
+
+          span {
+            display: flex;
+
+            img {
+              object-fit: cover;
+              height: 25px;
+              display: flex;
+              overflow: hidden;
+              border-radius: 2px;
+            }
+          }
+        }
+
+        &:hover {
+          background: #343a40;
+        }
+      }
+    }
+  }
+
+  .progress {
+    height: 60px;
+
+    .progress-bar {
+      background: linear-gradient(40deg,#fbca57,#ff0e0e);
+
+      .progress-text {
+        font-size: 2.4em;
+        
+        span {
+          font-weight: 700;
+        }
+      }
+    }
+  }
+
+  .listado-continentes {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 40px;
+
+    .continente {
+
+      .continente-nombre {
+        font-size: 1.8em;
+        
+        button {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          background: none;
+          border: none;
+          color: white;
+          font-weight: 700;
+          width: 100%;
+          padding: 0;
+        }
+
+        span {
+          display: none;
+        }
+      }
+
+      .paises {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+
+        li {
+          border-bottom: 1px solid #ffffff35;
+          padding: 0.5em;
+
+          .pais-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            color: white;
+
+            p {
+              display: flex;
+              align-items: center;
+
+              .bandera {
+                object-fit: scale-down;
+                height: 20px;
+                overflow: hidden;
+                border-radius: 2px;
+              }
+            }
+          }
+
+  
+          &:hover {
+            background: #ffffff15;
+          }
+
+          &:last-of-type {
+            border-bottom: none;
+          }
+        } 
+      }
+      
+      .paises.hide {
+        height: 0;
+        overflow: hidden;
+      }
+    }
+
+  }
+
+  @media (max-width: 1200px) {
+
+    .listado-continentes {
+      grid-template-columns: 1fr;
+
+      .continente {
+        border-bottom: 1px solid #ffffff35;
+        padding-bottom: 1em;
+
+        .continente-nombre {
+
+          span {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+
+  @media (max-width: 990px) {
+    .w-100-lg {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 575px) {
+
+    h1 {
+      font-size: 1.5em;
+    }
+
+    .progress {
+      height: 40px;
+      
+      .progress-bar {
+
+        .progress-text {
+          font-size: 1.3em;
+        }
+      }
+    }
+
+    .listado-continentes {
+
+      .continente {
+
+        .continente-nombre {
+          font-size: 1.3em;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2859 @@
+
+{
+  "total_paises": 195,
+  "continentes": [
+    {
+      "nombre": "Africa",
+      "paises": [
+        {
+          "nombre": "Angola",
+          "bandera": {
+            "emoji":  "🇦🇴",
+            "imagen": "./flags/ao.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-8.83682",
+            "lng": "13.23432"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Argelia",
+          "bandera": {
+            "emoji":  "🇩🇿",
+            "imagen": "./flags/dz.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "36.7525",
+            "lng": "3.04197"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Benín",
+          "bandera": {
+            "emoji":  "🇧🇯",
+            "imagen": "./flags/bj.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "6.49646",
+            "lng": "2.60359"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Botsuana",
+          "bandera": {
+            "emoji":  "🇧🇼",
+            "imagen": "./flags/bw.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-24.65451",
+            "lng": "25.90859"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Burkina Faso",
+          "bandera": {
+            "emoji":  "🇧🇫",
+            "imagen": "./flags/bf.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "12.36423",
+            "lng": "-1.5384"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Burundi",
+          "bandera": {
+            "emoji":  "🇧🇮",
+            "imagen": "./flags/bi.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-3.3822",
+            "lng": "29.3644"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Cabo Verde",
+          "bandera": {
+            "emoji":  "🇨🇻",
+            "imagen": "./flags/cv.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "14.93152",
+            "lng": "-23.51254"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Camerún",
+          "bandera": {
+            "emoji":  "🇨🇲",
+            "imagen": "./flags/cm.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "3.86667",
+            "lng": "11.51667"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Chad",
+          "bandera": {
+            "emoji":  "🇹🇩",
+            "imagen": "./flags/td.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "12.10672",
+            "lng": "15.0444"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Republica centroafricana",
+          "bandera": {
+            "emoji":  "🇨🇫",
+            "imagen": "./flags/cf.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "4.36122",
+            "lng": "18.55598"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Comoras",
+          "bandera": {
+            "emoji":  "🇰🇲",
+            "imagen": "./flags/km.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-11.70216",
+            "lng": "43.25506"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Republica del Congo",
+          "bandera": {
+            "emoji":  "🇨🇬",
+            "imagen": "./flags/cg.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-4.26336",
+            "lng": "15.24288"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Republica democratica del Congo",
+          "bandera": {
+            "emoji":  "🇨🇩",
+            "imagen": "./flags/cd.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-4.32758",
+            "lng": "15.31357"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Costa de Marfil",
+          "bandera": {
+            "emoji":  "🇨🇮",
+            "imagen": "./flags/ci.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "6.82055",
+            "lng": "-5.27674"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Egipto",
+          "bandera": {
+            "emoji":  "🇪🇬",
+            "imagen": "./flags/eg.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "30.06263",
+            "lng": "31.24967"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=z4vMB5bl1qI"
+        },
+        {
+          "nombre": "Eritrea",
+          "bandera": {
+            "emoji":  "🇪🇷",
+            "imagen": "./flags/er.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "15.33805",
+            "lng": "38.93184"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Etiopía",
+          "bandera": {
+            "emoji":  "🇪🇹",
+            "imagen": "./flags/et.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "9.02497",
+            "lng": "38.74689"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Gabón",
+          "bandera": {
+            "emoji":  "🇬🇦",
+            "imagen": "./flags/ga.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-0.39293",
+            "lng": "9.4536"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Gambia",
+          "bandera": {
+            "emoji":  "🇬🇲",
+            "imagen": "./flags/gm.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "13.45274",
+            "lng": "-16.57803"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Ghana",
+          "bandera": {
+            "emoji":  "🇬🇭",
+            "imagen": "./flags/gh.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "5.55602",
+            "lng": "-0.1969"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Guinea",
+          "bandera": {
+            "emoji":  "🇬🇳",
+            "imagen": "./flags/gn.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "9.53795",
+            "lng": "-13.67729"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Guinea-Bisáu",
+          "bandera": {
+            "emoji":  "🇬🇼",
+            "imagen": "./flags/gw.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "11.86357",
+            "lng": "-15.59767"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Guinea Ecuatorial",
+          "bandera": {
+            "emoji":  "🇬🇶",
+            "imagen": "./flags/gq.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "3.75",
+            "lng": "8.78333"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Kenia",
+          "bandera": {
+            "emoji":  "🇰🇪",
+            "imagen": "./flags/ke.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-1.28333",
+            "lng": "36.81667"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=_Zt13KNHltg"
+        },
+        {
+          "nombre": "Lesoto",
+          "bandera": {
+            "emoji":  "🇱🇸",
+            "imagen": "./flags/ls.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-29.31667",
+            "lng": "27.48333"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Liberia",
+          "bandera": {
+            "emoji":  "🇱🇷",
+            "imagen": "./flags/lr.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "6.30054",
+            "lng": "-10.7969"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Libia",
+          "bandera": {
+            "emoji":  "🇱🇾",
+            "imagen": "./flags/ly.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "32.87519",
+            "lng": "13.18746"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Madagascar",
+          "bandera": {
+            "emoji":  "🇲🇬",
+            "imagen": "./flags/mg.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-18.91368",
+            "lng": "47.53613"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Malawi",
+          "bandera": {
+            "emoji":  "🇲🇼",
+            "imagen": "./flags/mw.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-13.96692",
+            "lng": "33.78725"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Malí",
+          "bandera": {
+            "emoji":  "🇲🇱",
+            "imagen": "./flags/ml.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "12.65",
+            "lng": "-8"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Marruecos",
+          "bandera": {
+            "emoji":  "🇲🇦",
+            "imagen": "./flags/ma.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "34.01325",
+            "lng": "-6.83255"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=3S2NXGobGEA"
+        },
+        {
+          "nombre": "Mauricio",
+          "bandera": {
+            "emoji":  "🇲🇺",
+            "imagen": "./flags/mu.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-20.16194",
+            "lng": "57.49889"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Mauritania",
+          "bandera": {
+            "emoji":  "🇲🇷",
+            "imagen": "./flags/mr.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "18.08581",
+            "lng": "-15.9785"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Mozambique",
+          "bandera": {
+            "emoji":  "🇲",
+            "imagen": "./flags/mz.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-25.96553",
+            "lng": "32.58322"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Namibia",
+          "bandera": {
+            "emoji":  "🇳🇦",
+            "imagen": "./flags/na.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-22.55941",
+            "lng": "17.08323"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Níger",
+          "bandera": {
+            "emoji":  "🇳🇪",
+            "imagen": "./flags/ne.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "13.51366",
+            "lng": "2.1098"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Nigeria",
+          "bandera": {
+            "emoji":  "🇳🇬",
+            "imagen": "./flags/ng.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "9.05785",
+            "lng": "7.49508"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Ruanda",
+          "bandera": {
+            "emoji":  "🇷🇼",
+            "imagen": "./flags/rw.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-1.94995",
+            "lng": "30.05885"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Santo Tomé y Príncipe",
+          "bandera": {
+            "emoji":  "🇸🇹",
+            "imagen": "./flags/st.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "0.33654",
+            "lng": "6.72732"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Senegal",
+          "bandera": {
+            "emoji":  "🇸🇳",
+            "imagen": "./flags/sn.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "14.6937",
+            "lng": "-17.44406"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Seychelles",
+          "bandera": {
+            "emoji":  "🇸🇨",
+            "imagen": "./flags/sc.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-4.67957",
+            "lng": "55.49198"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Sierra Leona",
+          "bandera": {
+            "emoji":  "🇸🇱",
+            "imagen": "./flags/sl.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "8.484",
+            "lng": "-13.22994"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Somalia",
+          "bandera": {
+            "emoji":  "🇸🇴",
+            "imagen": "./flags/so.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "2.03711",
+            "lng": "45.34375"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Suazilandia",
+          "bandera": {
+            "emoji":  "🇸🇿",
+            "imagen": "./flags/sz.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-26.31667",
+            "lng": "31.13333"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Sudáfrica",
+          "bandera": {
+            "emoji":  "🇿🇦",
+            "imagen": "./flags/za.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-25.74486",
+            "lng": "28.18783"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Sudán",
+          "bandera": {
+            "emoji":  "🇸🇩",
+            "imagen": "./flags/sd.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "15.55177",
+            "lng": "32.53241"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Sudán del Sur",
+          "bandera": {
+            "emoji":  "🇸🇸",
+            "imagen": "./flags/ss.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "4.85165",
+            "lng": "31.58247"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=DO_gN3slVlI"
+        },
+        {
+          "nombre": "Tanzania",
+          "bandera": {
+            "emoji":  "🇹🇿",
+            "imagen": "./flags/tz.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-6.82349",
+            "lng": "39.26951"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=YD6WLStjIfw"
+        },
+        {
+          "nombre": "Togo",
+          "bandera": {
+            "emoji":  "🇹🇬",
+            "imagen": "./flags/tg.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "6.13748",
+            "lng": "1.21227"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Túnez",
+          "bandera": {
+            "emoji":  "🇹🇳",
+            "imagen": "./flags/tn.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "36.81897",
+            "lng": "10.16579"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Uganda",
+          "bandera": {
+            "emoji":  "🇺🇬",
+            "imagen": "./flags/ug.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "0.31628",
+            "lng": "32.58219"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Yibuti",
+          "bandera": {
+            "emoji":  "🇩🇯",
+            "imagen": "./flags/dj.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "11.58901",
+            "lng": "43.14503"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Zambia",
+          "bandera": {
+            "emoji":  "🇿🇲",
+            "imagen": "./flags/zm.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-15.40669",
+            "lng": "28.28713"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Zimbabue",
+          "bandera": {
+            "emoji":  "🇿🇼",
+            "imagen": "./flags/zw.svg"
+          },
+          "continente": "Africa",
+          "coord": {
+            "lat" : "-17.82935",
+            "lng": "31.05389"
+          },
+          "visitado": false,
+          "video": ""
+        }
+      ]
+    },
+    {
+      "nombre": "Europa",
+      "paises": [
+        {
+          "nombre": "España",
+          "bandera": {
+            "emoji":  "🇪🇸",
+            "imagen": "./flags/es.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "40.4165",
+            "lng": "-3.70256"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=LgkFDohGy4E"
+        },
+        {
+          "nombre": "Francia",
+          "bandera": {
+            "emoji":  "🇫🇷",
+            "imagen": "./flags/fr.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "48.85341",
+            "lng": "2.3488"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Italia",
+          "bandera": {
+            "emoji":  "🇮🇹",
+            "imagen": "./flags/it.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "41.89193",
+            "lng": "12.51133"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=25kzn6oJO1o"
+        },
+        {
+          "nombre": "Portugal",
+          "bandera": {
+            "emoji":  "🇵🇹",
+            "imagen": "./flags/pt.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "38.71667",
+            "lng": "-9.13333"
+          },
+          "visitado": false, 
+          "video": ""
+        },
+        {
+          "nombre": "Reino Unido",
+          "bandera": {
+            "emoji":  "🇬🇧",
+            "imagen": "./flags/gb.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "51.50853",
+            "lng": "-0.12574"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=7P5VUMIAGaw"
+        },
+        {
+          "nombre": "Alemania",
+          "bandera": {
+            "emoji":  "🇩🇪",
+            "imagen": "./flags/de.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "52.52437",
+            "lng": "13.41053"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=m581irGh8Co"
+        },
+        {
+          "nombre": "Austria",
+          "bandera": {
+            "emoji":  "🇦🇹",
+            "imagen": "./flags/at.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "48.20849",
+            "lng": "16.37208"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Bélgica",
+          "bandera": {
+            "emoji":  "🇧🇪",
+            "imagen": "./flags/be.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "50.85045",
+            "lng": "4.34878"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=u4ht-jBz2RY"
+        }, 
+        {
+          "nombre": "Bulgaria",
+          "bandera": {
+            "emoji":  "🇧🇬",
+            "imagen": "./flags/bg.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "42.69751",
+            "lng": "23.32415"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Croacia",
+          "bandera": {
+            "emoji":  "🇭🇷",
+            "imagen": "./flags/hr.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "45.81444",
+            "lng": "15.97798"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=PeZQ9G-MsZs"
+        },
+        {
+          "nombre": "Dinamarca",
+          "bandera": {
+            "emoji":  "🇩🇰",
+            "imagen": "./flags/dk.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "55.67594",
+            "lng": "12.56553"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Eslovaquia",
+          "bandera": {
+            "emoji":  "🇸🇰",
+            "imagen": "./flags/sk.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "48.14816",
+            "lng": "17.10674"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Eslovenia",
+          "bandera": {
+            "emoji":  "🇸🇮",
+            "imagen": "./flags/si.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "46.05108",
+            "lng": "14.50513"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=klfV-iv-GBM"
+        }, 
+        {
+          "nombre": "Estonia",
+          "bandera": {
+            "emoji":  "🇪🇪",
+            "imagen": "./flags/ee.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "59.43696",
+            "lng": "24.75353"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Finlandia",
+          "bandera": {
+            "emoji":  "🇫🇮",
+            "imagen": "./flags/fi.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "60.16952",
+            "lng": "24.93545"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=nGvd0HETDWI"
+        },
+        {
+          "nombre": "Grecia",
+          "bandera": {
+            "emoji":  "🇬🇷",
+            "imagen": "./flags/gr.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "37.97945",
+            "lng": "23.71622"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Hungría",
+          "bandera": {
+            "emoji":  "🇭🇺",
+            "imagen": "./flags/hu.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "47.49801",
+            "lng": "19.03991"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=WdSt22TUSo0"
+        },
+        {
+          "nombre": "Irlanda",
+          "bandera": {
+            "emoji":  "🇮🇪",
+            "imagen": "./flags/ie.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "53.33306",
+            "lng": "-6.24889"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=rfYtYya-c18"
+        },
+        {
+          "nombre": "Rusia",
+          "bandera": {
+            "emoji":  "🇷🇺",
+            "imagen": "./flags/ru.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "55.75222",
+            "lng": "37.61556"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=bPa9zZCTmW0"
+        },
+        {
+          "nombre": "Suecia",
+          "bandera": {
+            "emoji":  "🇸🇪",
+            "imagen": "./flags/se.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "59.33258",
+            "lng": "18.0649"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Suiza",
+          "bandera": {
+            "emoji":  "🇨🇭",
+            "imagen": "./flags/ch.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "46.94809",
+            "lng": "7.44744"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=W2dGIAM_B2A"
+        },
+        {
+          "nombre": "Ucrania",
+          "bandera": {
+            "emoji":  "🇺🇦",
+            "imagen": "./flags/ua.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "50.45466",
+            "lng": "30.5238"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=2GIjU4aqrKM"
+        },
+        {
+          "nombre": "Vaticano",
+          "bandera": {
+            "emoji":  "🇻🇦",
+            "imagen": "./flags/va.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "41.90236",
+            "lng": "12.45332"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=MH6brr-djIg"
+        },
+        {
+          "nombre": "Albania",
+          "bandera": {
+            "emoji":  "🇦🇱",
+            "imagen": "./flags/al.svg"
+           },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "41.3275",
+            "lng": "19.81889"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Andorra",
+          "bandera": {
+            "emoji":  "🇦🇩",
+            "imagen": "./flags/ad.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "42.50606",
+            "lng": "1.5218"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=fH9AN8f2X10"
+        },
+        {
+          "nombre": "Bielorrusia",
+          "bandera": {
+            "emoji":  "🇧🇾",
+            "imagen": "./flags/by.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "53.9",
+            "lng": "27.56667"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Bosnia y Herzegovina",
+          "bandera": {
+            "emoji":  "🇧🇦",
+            "imagen": "./flags/ba.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "43.84864",
+            "lng": "18.35644"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Letonia",
+          "bandera": {
+            "emoji":  "🇱🇻",
+            "imagen": "./flags/lv.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "56.946",
+            "lng": "24.10589"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Liechtenstein",
+          "bandera": {
+            "emoji":  "🇱🇮",
+            "imagen": "./flags/li.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "47.14151",
+            "lng": "9.52154"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Lituania",
+          "bandera": {
+            "emoji":  "🇱🇹",
+            "imagen": "./flags/lt.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "54.68916",
+            "lng": "25.2798"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Macedonia del Norte",
+          "bandera": {
+            "emoji":  "🇲🇰",
+            "imagen": "./flags/mk.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "41.99646",
+            "lng": "21.43141"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Malta",
+          "bandera": {
+            "emoji":  "🇲🇹",
+            "imagen": "./flags/mt.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "35.89972",
+            "lng": "14.51472"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Moldavia",
+          "bandera": {
+            "emoji":  "🇲🇩",
+            "imagen": "./flags/md.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "47.00556",
+            "lng": "28.8575"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Mónaco",
+          "bandera": {
+            "emoji":  "🇲🇨",
+            "imagen": "./flags/mc.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "43.73333",
+            "lng": "7.41667"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Montenegro",
+          "bandera": {
+            "emoji":  "🇲🇪",
+            "imagen": "./flags/me.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "42.44111",
+            "lng": "19.26361"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Noruega",
+          "bandera": {
+            "emoji":  "🇳🇴",
+            "imagen": "./flags/no.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "59.91273",
+            "lng": "10.74609"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Polonia",
+          "bandera": {
+            "emoji":  "🇵🇱",
+            "imagen": "./flags/pl.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "52.22977",
+            "lng": "21.01178"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Luxemburgo",
+          "bandera": {
+            "emoji":  "🇱🇺",
+            "imagen": "./flags/lu.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "49.61167",
+            "lng": "6.13"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Rumania",
+          "bandera": {
+            "emoji":  "🇷🇴",
+            "imagen": "./flags/ro.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "44.43225",
+            "lng": "26.10626"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=pKvi4sXYbnU"
+        },
+        {
+          "nombre": "San Marino",
+          "bandera": {
+            "emoji":  "🇸🇲",
+            "imagen": "./flags/sm.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "43.94236",
+            "lng": "12.45778"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Serbia",
+          "bandera": {
+            "emoji":  "🇷🇸",
+            "imagen": "./flags/rs.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "44.80401",
+            "lng": "20.46513"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=kyVVcLyld0w"
+        },
+        {
+          "nombre": "Turquía",
+          "bandera": {
+            "emoji":  "🇹🇷",
+            "imagen": "./flags/tr.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "41.01384",
+            "lng": "28.94966"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=UuTcTAu__pY"
+        },
+        {
+          "nombre": "Repulica Checa",
+          "bandera": {
+            "emoji":  "🇨🇿",
+            "imagen": "./flags/cz.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "50.08804",
+            "lng": "14.42076"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=Zt6W-yN22G0"
+        },
+        {
+          "nombre": "kazajistán",
+          "bandera": {
+            "emoji":  "🇰🇿",
+            "imagen": "./flags/kz.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "51.1801",
+            "lng": "71.44598"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Chipre",
+          "bandera": {
+            "emoji":  "🇨🇾",
+            "imagen": "./flags/cy.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "35.16667",
+            "lng": "33.36667"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Armenia",
+          "bandera": {
+            "emoji":  "🇦🇲",
+            "imagen": "./flags/am.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "40.18111",
+            "lng": "44.51361"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Azerbaiyán",
+          "bandera": {
+            "emoji":  "🇦🇿",
+            "imagen": "./flags/az.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "40.37767",
+            "lng": "49.89201"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=qbSuujX5MQU"
+        },
+        {
+          "nombre": "Georgia",
+          "bandera": {
+            "emoji":  "🇬🇪",
+            "imagen": "./flags/ge.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "41.69411",
+            "lng": "44.83368"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Islandia",
+          "bandera": {
+            "emoji":  "🇮🇸",
+            "imagen": "./flags/is.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "64.13548",
+            "lng": "-21.89541"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=HyHaj6S9Sqc"
+        },
+        {
+          "nombre": "Paises Bajos",
+          "bandera": {
+            "emoji":  "🇳🇱",
+            "imagen": "./flags/nl.svg"
+          },
+          "continente": "Europa",
+          "coord": {
+            "lat" : "52.37403",
+            "lng": "4.88969"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=PcEr6w0FYQA"
+        }
+      ]
+    },
+    {
+      "nombre": "Asia",
+      "paises": [
+        {
+          "nombre": "China",
+          "bandera": {
+            "emoji":  "🇨🇳",
+            "imagen": "./flags/cn.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "39.9075",
+            "lng": "116.39723"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=Cq_KA3VVN-4"
+        },
+        {
+          "nombre": "India",
+          "bandera": {
+            "emoji":  "🇮🇳",
+            "imagen": "./flags/in.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "28.63576",
+            "lng": "77.22445"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=w-pIBtP21vc"
+        },
+        {
+          "nombre": "Georgia",
+          "bandera": {
+            "emoji":  "🇬🇪",
+            "imagen": "./flags/ge.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "41.69411",
+            "lng": "44.83368"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Chipre",
+          "bandera": {
+            "emoji":  "🇨🇾",
+            "imagen": "./flags/cy.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "35.16667",
+            "lng": "33.36667"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "kazajistán",
+          "bandera": {
+            "emoji":  "🇰🇿",
+            "imagen": "./flags/kz.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "51.1801",
+            "lng": "71.44598"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Indonesia",
+          "bandera": {
+            "emoji":  "🇮🇩",
+            "imagen": "./flags/id.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "-6.21462",
+            "lng": "106.84513"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Japón",
+          "bandera": {
+            "emoji":  "🇯🇵",
+            "imagen": "./flags/jp.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "35.6895",
+            "lng": "139.69171"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=HFsFY4GOz00"
+        },
+        {
+          "nombre": "Corea del Sur",
+          "bandera": {
+            "emoji":  "🇰🇷",
+            "imagen": "./flags/kr.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "37.566",
+            "lng": "126.9784"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=_LGICP29iHg"
+        },
+        {
+          "nombre": "corea del norte",
+          "bandera": {
+            "emoji":  "🇰🇵",
+            "imagen": "./flags/kp.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "39.03385",
+            "lng": "125.75432"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Malasia",
+          "bandera": {
+            "emoji":  "🇲🇾",
+            "imagen": "./flags/my.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "3.1412",
+            "lng": "101.68653"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Filipinas",
+          "bandera": {
+            "emoji":  "🇵🇭",
+            "imagen": "./flags/ph.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "14.6042",
+            "lng": "120.9822"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Singapur",
+          "bandera": {
+            "emoji":  "🇸🇬",
+            "imagen": "./flags/sg.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "1.28967",
+            "lng": "103.85007"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Tailandia",
+          "bandera": {
+            "emoji":  "🇹🇭",
+            "imagen": "./flags/th.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "13.75398",
+            "lng": "100.50144"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=N240wiPw2EM"
+        },
+        {
+          "nombre": "Tayikistán",
+          "bandera": {
+            "emoji":  "🇹🇯",
+            "imagen": "./flags/tj.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "38.53575",
+            "lng": "68.77905"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Timor Oriental",
+          "bandera": {
+            "emoji":  "🇹🇱",
+            "imagen": "./flags/tl.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "-8.55861",
+            "lng": "125.57361"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Uzbekistán",
+          "bandera": {
+            "emoji":  "🇺🇿",
+            "imagen": "./flags/uz.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "41.26465",
+            "lng": "69.21627"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Turkmenistán",
+          "bandera": {
+            "emoji":  "🇹🇲",
+            "imagen": "./flags/tm.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "37.95",
+            "lng": "58.38333"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Turquía",
+          "bandera": {
+            "emoji":  "🇹🇷",
+            "imagen": "./flags/tr.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "39.91987",
+            "lng": "32.85427"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=UuTcTAu__pY"
+        },
+        {
+          "nombre": "Yemen",
+          "bandera": {
+            "emoji":  "🇾🇪",
+            "imagen": "./flags/ye.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "15.35472",
+            "lng": "44.20667"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Vietnam",
+          "bandera": {
+            "emoji":  "🇻🇳",
+            "imagen": "./flags/vn.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "21.0245",
+            "lng": "105.84117"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Afganistán",
+          "bandera": {
+           "emoji":  "🇦🇫",
+           "imagen": "./flags/af.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "34.52813",
+            "lng": "69.17233"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Arabia Saudita",
+          "bandera": {
+            "emoji":  "🇸🇦",
+            "imagen": "./flags/sa.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "24.68773",
+            "lng": "46.72185"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Armenia",
+          "bandera": {
+            "emoji":  "🇦🇲",
+            "imagen": "./flags/am.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "40.18111",
+            "lng": "44.51361"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Azerbaiyán",
+          "bandera": {
+            "emoji":  "🇦🇿",
+            "imagen": "./flags/az.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "40.37767",
+            "lng": "49.89201"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=qbSuujX5MQU"
+        },
+        {
+          "nombre": "Baréin",
+          "bandera": {
+            "emoji":  "🇧🇭",
+            "imagen": "./flags/bh.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "26.21536",
+            "lng": "50.5832"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=WBHBAuQuVxs"
+        },
+        {
+          "nombre": "Birmania",
+          "bandera": {
+            "emoji":  "🇲🇲",
+            "imagen": "./flags/mm.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "16.80528",
+            "lng": "96.15611"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Bangladesh",
+          "bandera": {
+            "emoji":  "🇧🇩",
+            "imagen": "./flags/bd.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "23.7104",
+            "lng": "90.40744"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Bután",
+          "bandera": {
+            "emoji":  "🇧🇹",
+            "imagen": "./flags/bt.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "27.46609",
+            "lng": "89.64191"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Brunéi",
+          "bandera": {
+            "emoji":  "🇧🇳",
+            "imagen": "./flags/bn.svg"
+          },
+          "continente": "Asia", 
+          "coord": {
+            "lat" : "4.89035",
+            "lng": "114.94216"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Camboya",
+          "bandera": {
+            "emoji":  "🇰🇭",
+            "imagen": "./flags/kh.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "11.56245",
+            "lng": "104.91601"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=zDuYaqQTEW4"
+        },
+        {
+          "nombre": "Catar",
+          "bandera": {
+            "emoji":  "🇶🇦",
+            "imagen": "./flags/qa.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "25.28545",
+            "lng": "51.53104"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=LDa5iald-6o"
+        },
+        {
+          "nombre": "Egipto",
+          "bandera": {
+            "emoji":  "🇪🇬",
+            "imagen": "./flags/eg.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "30.06263",
+            "lng": "31.24967"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=z4vMB5bl1qI"
+        },
+        {
+          "nombre": "Emiratos Árabes Unidos",
+          "bandera": {
+            "emoji":  "🇦🇪",
+            "imagen": "./flags/ae.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "25.07725",
+            "lng": "55.30927"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=cSKGUh4Httk"
+        },
+        {
+          "nombre": "Irak",
+          "bandera": {
+            "emoji":  "🇮🇶",
+            "imagen": "./flags/iq.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "33.34058",
+            "lng": "44.40088"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=-RfuQUN0hsg"
+        },
+        {
+          "nombre": "Irán",
+          "bandera": {
+            "emoji":  "🇮🇷",
+            "imagen": "./flags/ir.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "35.69439",
+            "lng": "51.42151"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Israel",
+          "bandera": {
+            "emoji":  "🇮🇱",
+            "imagen": "./flags/il.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "31.76904",
+            "lng": "35.21633"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=NWl5f2SKdwc"
+        },
+        {
+          "nombre": "Jordania",
+          "bandera": {
+            "emoji":  "🇯🇴",
+            "imagen": "./flags/jo.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "31.95522",
+            "lng": "35.94503"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=4xUidvnPulQ"
+        },
+        {
+          "nombre": "Kirguistán",
+          "bandera": {
+            "emoji":  "🇰🇬",
+            "imagen": "./flags/kg.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "42.87376",
+            "lng": "74.61228"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=9nxaV2zPoNw"
+        },
+        {
+          "nombre": "Kuwait",
+          "bandera": {
+            "emoji":  "🇰🇼",
+            "imagen": "./flags/kw.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "29.36972",
+            "lng": "47.97833"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Laos",
+          "bandera": {
+            "emoji":  "🇱🇦",
+            "imagen": "./flags/la.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "17.96667",
+            "lng": "102.6"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Líbano",
+          "bandera": {
+            "emoji":  "🇱🇧",
+            "imagen": "./flags/lb.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "33.88894",
+            "lng": "35.49442"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=iboVVL3OAQ8"
+        },
+        {
+          "nombre": "Maldivas",
+          "bandera": {
+            "emoji":  "🇲🇻",
+            "imagen": "./flags/mv.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "4.1748",
+            "lng": "73.50888"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Mongolia",
+          "bandera": {
+            "emoji":  "🇲🇳",
+            "imagen": "./flags/mn.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "47.90771",
+            "lng": "106.88324"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Nepal",
+          "bandera": {
+            "emoji":  "🇳🇵",
+            "imagen": "./flags/np.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "27.70169",
+            "lng": "85.3206"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Omán",
+          "bandera": {
+            "emoji":  "🇴🇲",
+            "imagen": "./flags/om.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "23.61387",
+            "lng": "58.5922"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Pakistán",
+          "bandera": {
+            "emoji":  "🇵🇰",
+            "imagen": "./flags/pk.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "33.72148",
+            "lng": "73.04329"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=vM0HvESNRSI&t"
+        },
+        {
+          "nombre": "Rusia",
+          "bandera": {
+            "emoji":  "🇷🇺",
+            "imagen": "./flags/ru.svg"
+          },          
+          "continente": "Asia",
+          "coord": {
+            "lat" : "55.75222",
+            "lng": "37.61556"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=bPa9zZCTmW0"
+        },
+        {
+          "nombre": "Siria",
+          "bandera": {
+            "emoji":  "🇸🇾",
+            "imagen": "./flags/sy.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "33.5102",
+            "lng": "36.29128"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Sri Lanka",
+          "bandera": {
+            "emoji":  "🇱🇰",
+            "imagen": "./flags/lk.svg"
+          },
+          "continente": "Asia",
+          "coord": {
+            "lat" : "6.93194",
+            "lng": "79.84778"
+          },
+          "visitado": false,
+          "video": ""
+        }
+      ]
+    },
+    {
+      "nombre": "America",
+      "paises": [
+        {
+          "nombre": "Argentina",
+          "bandera": {
+            "emoji":  "🇦🇷",
+            "imagen": "./flags/ar.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-32.89084",
+            "lng": "-68.82717"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=EUEujSP1MRA"
+        },
+        {
+          "nombre": "Brasil",
+          "bandera": {
+            "emoji":  "🇧🇷",
+            "imagen": "./flags/br.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-15.77972",
+            "lng": "-47.92972"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=p9roL8ETcfo"
+        },
+        {
+          "nombre": "Chile",
+          "bandera": {
+            "emoji":  "🇨🇱",
+            "imagen": "./flags/cl.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-33.45694",
+            "lng": "70.64827"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=P5RELCJChOI"
+        },
+        {
+          "nombre": "Colombia",
+          "bandera": {
+            "emoji":  "🇨🇴",
+            "imagen": "./flags/co.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "4.60971",
+            "lng": "-74.08175"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=klsmySdNbiU"
+        }, 
+        {
+          "nombre": "Ecuador",
+          "bandera": {
+            "emoji":  "🇪🇨",
+            "imagen": "./flags/ec.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-0.22985",
+            "lng": "-78.52495"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=iisPgquoCoU"
+        },
+        {
+          "nombre": "Paraguay",
+          "bandera": {
+            "emoji":  "🇵🇾",
+            "imagen": "./flags/py.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-25.28646",
+            "lng": "-57.647"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=FdnyVky1hKY"
+        }, 
+        {
+          "nombre": "Perú",
+          "bandera": {
+            "emoji":  "🇵🇪",
+            "imagen": "./flags/pe.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-12.04318",
+            "lng": "-77.02824"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=RQLfUgbQxIs"
+        },
+        {
+          "nombre": "Uruguay",
+          "bandera": {
+            "emoji":  "🇺🇾",
+            "imagen": "./flags/uy.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-32.52278",
+            "lng": "-55.76583"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Venezuela",
+          "bandera": {
+            "emoji":  "🇻🇪",
+            "imagen": "./flags/ve.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "6.42375",
+            "lng": "-66.58973"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=VbvkT2Y-00Y"
+        },
+        {
+          "nombre": "Bolivia",
+          "bandera": {
+            "emoji":  "🇧🇴",
+            "imagen": "./flags/bo.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "-16.29015",
+            "lng": "-63.58865"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=mmzcECIJT7o"
+        },
+        {
+          "nombre": "Surinam",
+          "bandera": {
+            "emoji":  "🇸🇷",
+            "imagen": "./flags/sr.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "5.86638",
+            "lng": "-55.16682"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Costa Rica",
+          "bandera": {
+            "emoji":  "🇨🇷",
+            "imagen": "./flags/cr.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "9.93333",
+            "lng": "-84.08333"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=jgkBk4soOMI&t"
+        },
+        {
+          "nombre": "Cuba",
+          "bandera": {
+            "emoji":  "🇨🇺",
+            "imagen": "./flags/cu.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "23.13302",
+            "lng": "-82.38304"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Trinidad y Tobago",
+          "bandera": {
+            "emoji":  "tt",
+            "imagen": "./flags/tt.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "10.691803",
+            "lng": "-61.222503"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "El Salvador",
+          "bandera": {
+            "emoji":  "🇸🇻",
+            "imagen": "./flags/sv.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "13.68935",
+            "lng": "-89.18718"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=u-O42mCpUkc"
+        },
+        {
+          "nombre": "Guatemala",
+          "bandera": {
+            "emoji":  "🇬🇹",
+            "imagen": "./flags/gt.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "14.64072",
+            "lng": "-90.51327"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=BxnBmK0Gr2c"
+        },
+        {
+          "nombre": "Honduras",
+          "bandera": {
+            "emoji":  "🇭🇳",
+            "imagen": "./flags/hn.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "14.0818",
+            "lng": "-87.20681"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=G4VZsu3x1hw"
+        },
+        {
+          "nombre": "Nicaragua",
+          "bandera": {
+            "emoji":  "🇳🇮",
+            "imagen": "./flags/ni.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "12.13282",
+            "lng": "-86.2504"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=67kYyTtiMiY"
+        },
+        {
+          "nombre": "Panamá",
+          "bandera": {
+            "emoji":  "🇵🇦",
+            "imagen": "./flags/pa.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "8.9936",
+            "lng": "-79.51973"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=K96CdjiF3FQ"
+        },
+        {
+          "nombre": "República Dominicana",
+          "bandera": {
+            "emoji":  "🇩🇴",
+            "imagen": "./flags/do.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "18.50012",
+            "lng": "-69.98857"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Antigua y Barbuda",
+          "bandera": {
+            "emoji":  "🇦🇬",
+            "imagen": "./flags/ag.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "17.12141",
+            "lng": "-61.84464"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Bahamas",
+          "bandera": {
+            "emoji":  "🇧🇸",
+            "imagen": "./flags/bs.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "25.05823",
+            "lng": "-77.34306"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Barbados",
+          "bandera": {
+            "emoji":  "🇧🇧",
+            "imagen": "./flags/bb.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "13.10658",
+            "lng": "-59.61683"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Belice",
+          "bandera": {
+            "emoji":  "🇧🇿",
+            "imagen": "./flags/bz.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "17.25101",
+            "lng": "-88.75902"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=zEJLGtSGWhQ"
+        }, 
+        {
+          "nombre": "Dominica",
+          "bandera": {
+            "emoji":  "🇩🇲",
+            "imagen": "./flags/dm.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "15.30174",
+            "lng": "-61.38808"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Granada",
+          "bandera": {
+            "emoji":  "🇬🇩",
+            "imagen": "./flags/gd.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "12.05644",
+            "lng": "-61.74849"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Guyana",
+          "bandera": {
+            "emoji":  "🇬🇾",
+            "imagen": "./flags/gy.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "6.80448",
+            "lng": "-58.15527"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Haití",
+          "bandera": {
+            "emoji":  "🇭🇹",
+            "imagen": "./flags/ht.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "18.53917",
+            "lng": "-72.335"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Jamaica",
+          "bandera": {
+            "emoji":  "🇯🇲",
+            "imagen": "./flags/jm.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "18.00747",
+            "lng": "-76.78319"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "San Cristóbal y Nieves",
+          "bandera": {
+            "emoji":  "🇰🇳",
+            "imagen": "./flags/kn.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "17.30261",
+            "lng": "-62.71769"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "San Vicente y las Granadinas",
+          "bandera": {
+            "emoji":  "🇻🇨",
+            "imagen": "./flags/vc.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "13.25276",
+            "lng": "-61.1971"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Santa Lucía",
+          "bandera": {
+            "emoji":  "🇱🇨",
+            "imagen": "./flags/lc.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "13.9957",
+            "lng": "-60.975"
+          },
+          "visitado": false,
+          "video": ""
+        },   
+        {
+          "nombre": "México",
+          "bandera": {
+            "emoji":  "🇲🇽",
+            "imagen": "./flags/mx.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "19.42847",
+            "lng": "-99.12766"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=4u-dSZsvfdQ"
+        }, 
+        {
+          "nombre": "Estados Unidos",
+          "bandera": {
+            "emoji":  "🇺🇸",
+            "imagen": "./flags/us.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "38.89511",
+            "lng": "-77.03637"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=AHKpcbPPk5w"
+        },
+        {
+          "nombre": "Canadá",
+          "bandera": {
+            "emoji":  "🇨🇦",
+            "imagen": "./flags/ca.svg"
+          },
+          "continente": "America",
+          "coord": {
+            "lat" : "45.41117",
+            "lng": "-75.69812"
+          },
+          "visitado": true,
+          "video": "https://www.youtube.com/watch?v=pGQuXJyFYIs"
+        }
+      ]
+    },
+    {
+      "nombre": "Oceania",
+      "paises": [
+        {
+          "nombre": "Australia",
+          "bandera": {
+            "emoji":  "🇦🇺",
+            "imagen": "./flags/au.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-35.28346",
+            "lng": "149.12807"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Nueva Zelanda",
+          "bandera": {
+            "emoji":  "🇳🇿",
+            "imagen": "./flags/nz.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-41.28664",
+            "lng": "174.77557"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Fiyi",
+          "bandera": {
+            "emoji":  "🇫🇯",
+            "imagen": "./flags/fj.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-18.14161",
+            "lng": "178.44149"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Papúa Nueva Guinea",
+          "bandera": {
+            "emoji":  "🇵🇬",
+            "imagen": "./flags/pg.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-9.44314",
+            "lng": "147.17972"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Samoa",
+          "bandera": {
+            "emoji":  "🇼🇸",
+            "imagen": "./flags/ws.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-13.83124",
+            "lng": "-171.76687"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Tonga",
+          "bandera": {
+            "emoji":  "🇹🇴",
+            "imagen": "./flags/to.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-21.13333",
+            "lng": "-175.2"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Vanuatu",
+          "bandera": {
+            "emoji":  "🇻🇺",
+            "imagen": "./flags/vu.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-17.74035",
+            "lng": "168.32138"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Islas Salomón",
+          "bandera": {
+            "emoji":  "🇸🇧",
+            "imagen": "./flags/sb.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-9.43333",
+            "lng": "159.95"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Estados Federados de Micronesia",
+          "bandera": {
+            "emoji":  "🇫🇲",
+            "imagen": "./flags/fm.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "6.92477",
+            "lng": "158.16109"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Islas Marshall",
+          "bandera": {
+            "emoji":  "🇲🇭",
+            "imagen": "./flags/mh.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "7.103",
+            "lng": "171.38027"
+          },
+          "visitado": false,
+          "video": ""
+        }, 
+        {
+          "nombre": "Kiribati",
+          "bandera": {
+            "emoji":  "🇰🇮",
+            "imagen": "./flags/ki.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "1.32932",
+            "lng": "172.97696"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Nauru",
+          "bandera": {
+            "emoji":  "🇳🇷",
+            "imagen": "./flags/nr.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-0.52278",
+            "lng": "166.9315"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Palau",
+          "bandera": {
+            "emoji":  "🇵🇼",
+            "imagen": "./flags/pw.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "7.50073",
+            "lng": "134.62421"
+          },
+          "visitado": false,
+          "video": ""
+        },
+        {
+          "nombre": "Tuvalu",
+          "bandera": {
+            "emoji":  "🇹🇻",
+            "imagen": "./flags/tv.svg"
+          },
+          "continente": "Oceania",
+          "coord": {
+            "lat" : "-8.52425",
+            "lng": "179.19417"
+          },
+          "visitado": false,
+          "video": ""
+        }
+      ]
+    }
+  ]
+}
