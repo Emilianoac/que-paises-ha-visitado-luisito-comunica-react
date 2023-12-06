@@ -196,9 +196,9 @@ function App() {
                   {continente.paises.map(pais => (
                     <li key={pais.nombre}>
                       {pais.visitado ?
-                        <a className="pais-content" href={pais.video}>
+                        <a className="pais-content" href={pais.video} target="_blank">
                           <p className="mb-0">
-                            <img className="bandera me-2" src={ pais.bandera.imagen } />
+                            <img className="bandera me-2" src={ pais.bandera.imagen } loading="lazy"/>
                             { pais.nombre }
                           </p>
                           { pais.visitado && <i className="fas fa-check text-success"></i>}
@@ -206,7 +206,7 @@ function App() {
                         :
                         <div className="pais-content" title="No visitado aún">
                           <p className="mb-0">
-                            <img className="bandera me-2" src={ pais.bandera.imagen }/> 
+                            <img className="bandera me-2" src={ pais.bandera.imagen } loading="lazy"/> 
                             { pais.nombre }
                           </p>
                           <i className="fas fa-times-circle text-danger"></i>
